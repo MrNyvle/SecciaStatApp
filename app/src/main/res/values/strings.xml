@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Seccia.stats</string>
+    <string name="app_LoginButtonText">Login</string>
+    <string name="app_PasswordText">Password</string>
+    <string name="app_PasswordIconDescriptionText">Lock icon for the password field</string>
+    <string name="app_EmailText">E-mail</string>
+    <string name="app_EmailIconDescriptionText">Person icon for the email field</string>
+    <string name="app_BackButtonText">Back</string>
+</resources>
